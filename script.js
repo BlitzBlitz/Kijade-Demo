@@ -55,92 +55,51 @@ let deuratLocation = [
 ];
 
 let kutubLocation = [
-  "k/القيادة والجندية في السنة النبوية.pdf",
-  "k/القيادة_الإدارية_وإنعكاساتها_على_مردود_وفعالية_العملية_الإدارية.pdf",
-  "k/القيادة_الإدارية_ودورها_في_خلق_المناخ_الابتكاري_لدى_العمال.pdf",
-  "k/القيادة_الذكية_ومهارات_عمل_الفريق.pdf",
-  "k/القيادة_في_القرن_الحادي_والعشرين_ملون_القائد_الفعال_ المؤلف_محمد.pdf",
-  "k/القيادة_في_المنشآت_الخيرية_وشواهد_من_السيرة.pdf",
-  "k/المستويات_الخمسة_للقيادة_جون_ماكسويل  موقع المكتبة تحميل كتب إلكترونية PDF  www.Maktbah.net (1).pdf",
-  "k/المسلمون_من_التبعية_والفتنة_إلى_القيادة_والتمكين.pdf",
-  "k/المهارات القيادية وعلاقتها بمستوى الأداء الوظيفي ....pdf",
-  "k/النظرة_الإستراتيجية_لدى_القائد_وعلاقتها_بالتغيير_التنظيمي_الناجح.pdf",
-  "k/بناء المربي القائد.pdf",
-  "k/تعلم القيادة.pdf",
-  "k/تفعيل_القيادة_التحويلية_من_خلال_أسلوب_تمكين_العاملين_في_المنطقة.pdf",
-  "k/دور_القيادة_في_إدارة_الأزمات_بين_الطرح_النظري_والممارسة_العملية.pdf",
-  "k/دور_القيادة_في_التغيير_التنظيمي_دراسة_حالة_تحديث_الإدارة_الجزائرية.pdf",
-  "k/روابط لقراءة كتب عن القيادة.docx",
-  "k/روح-القيادة-ديباك-شوبرا.pdf",
-  "k/سحر القيادة_د.ابراهيم الفقي.pdf",
-  "k/فقه الاستراتيجية.pdf",
-  "k/فكرة_القيادة_الإدارية_و_تطبيقاتها_في_الفكر_الإسلامي.pdf",
-  "k/قوة القيادة في القران الكريم.pdf",
-  "k/قيادة الحياة.pdf",
-  "k/قيادة فريق العمل .pdf",
-  "k/قيادة_الأفراد_حلول_من_الخبراء_لتحديات_يومية.pdf",
-  "k/كتاب_قيادة_محمد_صلى_الله_عليه_وسلم.pdf",
-  "k/كلنا قادة.pdf",
-  "k/لمحات في فن القيادة ج. كورتوا المكتبة نت www.Maktbah.net (1).pdf",
-  "k/مبادئ القيادة - أ.د. حسين الزومي (1).pdf",
-  "k/مساهمة_أخلاقيات_القيادة_الإدارية.pdf",
-  "k/مصطلحات القيادة في القرآن والسنة.pdf",
-  "k/مهارات القيادة الفعالة.pdf",
-  "k/موسوعة القيادة في الإسلام your_books.pdf",
-  "k/نمط_القيادة_الإدارية_وعلاقته_بالتغيير_التنظيمي_دراسة_حالة_مطاحن.pdf",
-  "k/21 قانونا لا يقبل الجدل في القيادة.pdf",
-  "k/econom02111_علاقة_القيادة_التحويلية.pdf",
-  "k/econom02137_فكرة_القيادة_الإدارية.pdf",
-  "k/econom03686_أثر_القيادة_التبادلية.pdf",
-  "k/econom04377_القيادة_التحويلية_وعلاقتها.pdf",
-  "k/econom04379_القيم_الادارية_والمهارات.pdf",
-  "k/manage00151_الطريق_الى_القيادة_وتنمية.pdf",
-  "k/manage00153_العادات_السبع_للناس.pdf",
-  "k/manage00156 العبقرية والإبداع.pdf",
-  "k/manage00176_القيادة_في_القرن_الحادي.pdf",
-  "k/manage00177_القيادة_المرتكزة_على.pdf",
-  "k/manage00494_مبدأ_القيادة_الأكثر.pdf",
-  "k/Quraan01971_القيادة_في_ضوء_القرآن.pdf",
-  "k/tarbyah00423_القيادة_الشخصية_لعباس.pdf",
-  "k/tarbyah01030_القيادة_الأخلاقية_من.pdf",
-  "k/tarbyah01594_القيادة_التربوية_واثرها.pdf",
-  "k/tarbyah01595_القيادة_التربوية_في.pdf",
-  "k/th0881_حول_القيادة_والسلطة_في_التاريخ.pdf",
-  "k/دوات_مراقبة_التسيير_لقيادة_استراتيجية_المؤسسة_لوحة_القيادة_المتوازنة.pdf",
+  "k/أثر القيادة التبادلية.pdf",
+  "k/أدوات مراقبة التسيير لقيادة استراتيجية.pdf",
   "k/أساسيات القيادة.pdf",
-  "k/أكتر من١٠٠فائده في القيادة.pdf",
-  "k/أنماط_القيادة_الإدارية_و_تأثيرها.pdf",
+  "k/أكتر من١٠٠ فائده في القيادة.pdf",
+  "k/أنماط القيادة الإدارية و تأثيرها.pdf",
   "k/إدارة المشاريع.pdf",
   "k/إدارة الوقت.pdf",
+
   "k/إعادة إختراع القيادة 1.pdf",
   "k/استراتيجيات_القائد_واستراتيجيات.pdf",
-  "k/الاستشراف_النبوي_في_الجانب_السياسي_وأثره_في_تفعيل_التخطيط_الاستراتيجي.pdf",
-  "k/التحكم_في_قيادة_المؤسسات_بواسطة_لوحات_القيادة_الإستراتيجية_دراسة.pdf",
-  "k/الشورى_من_صحيح_الإمام_مسلم_وتطبيقاتها_في_القيادة.pdf",
+  "k/الاستشراف النبوي في الجانب السياسي.pdf",
+  "k/التحكم في قيادة المؤسسات.pdf",
+  "k/الشورى من صحيح الإمام مسلم وتطبيقاتها في القيادة.pdf",
+  "k/الطريق إلى القيادة و تنمية الشخصية.pdf",
   "k/الطريق إلى القيادة.pdf",
-  "k/الطريق_إلى_القيادة_و_تنمية_الشخصية.pdf",
+  "k/الطريق_الى_القيادة_وتنمية.pdf",
+  "k/العادات_السبع_للناس.pdf",
   "k/العادة الثامنة.pdf",
   "k/العبقرية والإبداع والقيادة.pdf",
-  "k/القائد_مؤهلاته_وصفاتــــه.pdf",
-  "k/القائد-الخفي-كن-انت-من-يقود-الحلم-واشل-محمد-نبيل-Maktbah.net_.pdf",
-  "k/القادة_في_ضوء_القرآن الكريم.pdf",
-  "k/القيادة الأخلاقية من منظور إسلامي.pdf",
-  "k/القيادة الإدارية ....pdf",
-  "k/القيادة المؤثرة.pdf",
-  "k/القيادة في قصة موسى عليه السلام.pdf",
-  "k/القيادة والتفكير.pdf",
+  "k/العبقرية والإبداع.pdf",
+  "k/القائد الخفي كن انت من يقود الحلم واشل محمد نبيل.pdf",
 ];
-let mekatiLocation = [];
+let muteneuiaLocation = [
+  "متنوعات/مقياس النموذج القيادي.pdf",
+  "متنوعات/مقولات في القيادة.pdf",
+  "متنوعات/سمات القائد الناجح.pdf",
+  "متنوعات/دورة القيادة.pdf",
+  "متنوعات/دور القيادة في تطبيق اسس و مبادئ.pdf",
+  "متنوعات/حياة القائد بين القدوة والاقتداء.pdf",
+  "متنوعات/القيادة الأسرية.pdf",
+  "متنوعات/القائد.pdf",
+  "متنوعات/القائد و المرؤوس في معادلة تحقيق.pdf",
+  "متنوعات/الارشادات الهادية للقيادة.pdf",
+  "متنوع/اتأنماط القيادة وفعالية.pdf",
+];
 let categoriesNames = [
-  "المهارات",
-  "الكتب",
-  "دورات تدريبية",
-  "الخلاصات",
-  "المقاطع",
+  " المهارات",
+  " الكتب",
+  " دورات تدريبية",
+  " الخلاصات",
+  " متنوعات",
 ];
-
+let subCategoriesNames = ["الكتب", "المقاطع", "الصور"];
 let linksContainer = document.querySelectorAll(".side-links")[0];
-let categoryContainer = document.querySelectorAll(".navbar")[0];
+let categoryContainer = document.querySelectorAll(".categories")[0];
 
 displayCategories(categoriesNames);
 displayItems(skillsLocations);
@@ -162,18 +121,30 @@ function displayCategories(categories) {
       switch (this.innerText) {
         case "المهارات":
           displayItems(skillsLocations);
+          removeVideos();
+          removeSubNav();
           break;
         case "الكتب":
           displayItems(kutubLocation);
+          removeVideos();
+          removeSubNav();
+
           break;
         case "دورات تدريبية":
           displayItems(deuratLocation);
+          removeVideos();
+          removeSubNav();
           break;
         case "الخلاصات":
           displayItems(hulasaLocation);
+          removeVideos();
+          removeSubNav();
           break;
-        case "المقاطع":
-          displayItems(mekatiLocation);
+        case "متنوعات":
+          displaySubCategories(subCategoriesNames);
+          displaySubCards();
+          removeVideos();
+          break;
         default:
           break;
       }
@@ -182,7 +153,76 @@ function displayCategories(categories) {
   }
 }
 
+function displaySubCards() {
+  removeFrame();
+  removeSubNav();
+  linksContainer.innerHTML = "";
+  let subCardsContainer = document.querySelectorAll(".subCards")[0];
+  subCardsContainer.classList.remove("none");
+  document.querySelector("#books").addEventListener("click", function () {
+    addSubNav();
+    displayItems(kutubLocation);
+    removeVideos();
+    removeImages();
+  });
+  document.querySelector("#videos").addEventListener("click", function () {
+    addSubNav();
+    addVideos();
+    removeSubCards();
+    removeImages();
+  });
+  document.querySelector("#pictures").addEventListener("click", function () {
+    addSubNav();
+    removeVideos();
+    removeSubCards();
+    addImages();
+  });
+}
+
+function displaySubCategories(subCategories) {
+  let subCategoriesContainer = document.querySelectorAll(".sub-categories")[0];
+  subCategoriesContainer.classList.remove("none");
+  subCategoriesContainer.innerHTML = "";
+  for (let i = 0; i < subCategories.length; i++) {
+    let subCategory = document.createElement("a");
+
+    subCategory.classList.add("nav-link");
+    subCategory.classList.add("subnav-link");
+    subCategory.href = "#";
+    subCategory.id = subCategories[i];
+    subCategory.innerHTML = subCategories[i];
+    subCategoriesContainer.appendChild(subCategory);
+    subCategory.addEventListener("click", function () {
+      switch (this.innerText) {
+        case "الكتب":
+          displayItems(muteneuiaLocation);
+          removeSubCards();
+          removeImages();
+          break;
+        case "المقاطع":
+          addSubNav();
+          addVideos();
+          removeFrame();
+          removeSubCards();
+          removeImages();
+          break;
+        case "الصور":
+          addImages();
+          removeSubCards();
+          removeVideos();
+          removeFrame();
+          break;
+        default:
+          break;
+      }
+    });
+    console.log(subCategoriesContainer);
+  }
+}
+
 function displayItems(items) {
+  addFrame();
+  removeVideos();
   linksContainer.innerHTML = "";
   for (let i = 0; i < items.length; i++) {
     let link = document.createElement("a");
@@ -204,4 +244,41 @@ function displayItems(items) {
     linksContainer.appendChild(link);
   }
   console.log(linksContainer.childNodes);
+}
+
+function removeFrame() {
+  addSubCards();
+  document.querySelector("#player").classList.add("none");
+}
+
+function addFrame() {
+  removeSubCards();
+  document.querySelector("#player").classList.remove("none");
+}
+
+function removeSubNav() {
+  document.querySelector(".sub-categories").classList.add("none");
+}
+
+function addSubNav() {
+  document.querySelector(".sub-categories").classList.remove("none");
+}
+
+function removeSubCards() {
+  document.querySelector(".subCards").classList.add("none");
+}
+function addSubCards() {
+  document.querySelector(".subCards").classList.remove("none");
+}
+function addVideos() {
+  document.querySelector(".videos").classList.remove("none");
+}
+function removeVideos() {
+  document.querySelector(".videos").classList.add("none");
+}
+function addImages() {
+  document.querySelector(".images").classList.remove("none");
+}
+function removeImages() {
+  document.querySelector(".images").classList.add("none");
 }
