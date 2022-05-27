@@ -214,6 +214,7 @@ function displaySubCategories(subCategories) {
           removeImages();
           break;
         case "الصور":
+          console.log(1);
           addImages();
           removeSubCards();
           removeVideos();
