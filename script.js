@@ -35,9 +35,33 @@ let hulasaLocation = [
   "الخلاصات/من_طالب_إلى_قائد.pdf",
   "الخلاصات/وصفات جاك ويلش للقيادة.pdf",
 ];
+let deuratLocation = [
+  "d/أساسيات فريق العمل.pdf",
+  "d/المبادرة لموقف قيادي.pdf",
+  "d/دورات تدريبيةعرض - الاستراتيجية الشخصية.pdf",
+  "d/دورات تدريبيةعرض - القبعات الست.pdf",
+  "d/دورات تدريبيةعرض - قيادة الأولويات.pdf",
+  "d/دورات تدريبيةعرض - معايير فريق العمل.pdf",
+  "d/دورات تدريبيةعرض التأثير والإقناع.pdf",
+  "d/دورات تدريبيةعرض القيادة الأخلاقية.pdf",
+  "d/دورات تدريبيةعرض القيادة الموقفية.pdf",
+  "d/دورات تدريبيةعرض برنامج تريز.pdf",
+  "d/دورات تدريبيةعرض تقدير الذات.pdf",
+  "d/دورات تدريبيةعرض قيادة المشروع.pdf",
+  "d/دورات تدريبيةقيادة الوقت.pdf",
+  "d/دورات تدريبيةمشروعي القيادي.pdf",
+  "d/دورات تدريبيةمهارات التواصل.pdf",
+  "d/دورات تدريبيةمهارات سكامبر.pdf",
+];
 let kutubLocation = [];
 let mekatiLocation = [];
-let categoriesNames = ["المهارات", "الكتب", "الخلاصات", "المقاطع"];
+let categoriesNames = [
+  "المهارات",
+  "الكتب",
+  "دورات تدريبية",
+  "الخلاصات",
+  "المقاطع",
+];
 
 let linksContainer = document.querySelectorAll(".side-links")[0];
 let categoryContainer = document.querySelectorAll(".navbar")[0];
@@ -66,6 +90,9 @@ function displayCategories(categories) {
         case "الكتب":
           displayItems(kutubLocation);
           break;
+        case "دورات تدريبية":
+          displayItems(deuratLocation);
+          break;
         case "الخلاصات":
           displayItems(hulasaLocation);
           break;
@@ -86,6 +113,8 @@ function displayItems(items) {
     link.classList.add("side-link");
     if (i == 0) {
       link.classList.add("active");
+      let pdf = document.querySelector("#player");
+      pdf.src = items[i];
     }
     link.href = "#";
     link.innerHTML = items[i].split("/")[1].split(".")[0];
