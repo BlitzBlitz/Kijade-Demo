@@ -123,27 +123,34 @@ function displayCategories(categories) {
           displayItems(skillsLocations);
           removeVideos();
           removeSubNav();
+          removeImages();
           break;
         case "الكتب":
           displayItems(kutubLocation);
           removeVideos();
           removeSubNav();
+          removeImages();
 
           break;
         case "دورات تدريبية":
           displayItems(deuratLocation);
           removeVideos();
           removeSubNav();
+          removeImages();
+
           break;
         case "الخلاصات":
           displayItems(hulasaLocation);
           removeVideos();
+          removeImages();
           removeSubNav();
           break;
         case "متنوعات":
           displaySubCategories(subCategoriesNames);
           displaySubCards();
           removeVideos();
+          removeImages();
+
           break;
         default:
           break;

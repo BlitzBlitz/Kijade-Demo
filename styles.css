@@ -198,9 +198,11 @@ video {
   overflow-y: scroll;
 }
 .images {
-  display: grid;
+  display: flex;
+  flex-wrap: wrap;
   grid-gap: 10px;
-  grid-template-columns: 1 1 1;
+  justify-content: center;
+  align-items: center;
   background-color: #fff;
   color: #444;
 }
@@ -209,26 +211,24 @@ video {
   background-color: #444;
   color: #fff;
   border-radius: 5px;
-  padding: 20px;
+  padding: 2em;
   font-size: 150%;
 }
-
 .a {
-  grid-column: 1 / span 2;
+  width: 75%;
 }
 .b {
-  grid-column: 3;
-  grid-row: 1;
+  width: 40%;
+}
+.b1 {
+  width: 40%;
 }
 .c {
-  grid-column: 1;
-  grid-row: 2;
+  width: 40%;
 }
 .d {
-  grid-column: 2;
-  grid-row: 2;
+  width: 55%;
 }
-
 .active {
   background-color: var(--blue);
   color: white;
