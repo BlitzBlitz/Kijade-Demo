@@ -87,6 +87,7 @@
   font-size: 1.2em;
   font-weight: bold;
   padding: 0.5em;
+  text-align: center;
 }
 .side-link:hover {
   background-color: var(--blue);
@@ -104,6 +105,8 @@
   background-color: var(--lightGreen);
   display: flex;
   align-items: center;
+  flex-direction: row-reverse;
+  padding: 0 1em;
 }
 
 .nav-link {
@@ -132,5 +135,10 @@
 .active {
   background-color: var(--blue);
   color: var(--lightBlue);
+  border-radius: 1em;
+}
+.active-green {
+  background-color: var(--green);
+  color: var(--lightGreen);
   border-radius: 1em;
 }
