@@ -134,7 +134,7 @@
 
 .active {
   background-color: var(--blue);
-  color: var(--lightBlue);
+  color: white;
   border-radius: 1em;
 }
 .active-green {
