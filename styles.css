@@ -39,6 +39,7 @@
   padding: 0.5em;
   border-radius: 0.5em;
   font-size: 40px;
+  text-decoration: none;
 }
 .logo:hover {
   background-color: var(--blue);
@@ -72,6 +73,8 @@
   background-color: var(--lightGreen);
   display: flex;
   align-items: center;
+  flex-direction: row-reverse;
+  padding: 0 2em;
 }
 
 .nav-link {
